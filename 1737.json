@@ -1,0 +1,37 @@
+{
+  "tokenId": 1737,
+  "name": "TEST NFT #1737",
+  "description": "TEST NFT #1737",
+  "image": "https://ynft.github.io/images/logo.jpg",
+  "external_url": "https://ynft.github.io/",
+  "attributes": [
+    {
+      "trait_type": "LEVEL",
+      "value": 4
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Color #3"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Face #3"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Hair #2"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Hat #5"
+    },
+    {
+      "trait_type": "NECKLACE",
+      "value": "Necklace #2"
+    },
+    {
+      "trait_type": "EARRINGS",
+      "value": "Earring #2"
+    }
+  ]
+}

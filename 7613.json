@@ -1,0 +1,37 @@
+{
+  "tokenId": 7613,
+  "name": "TEST NFT #7613",
+  "description": "TEST NFT #7613",
+  "image": "https://ynft.github.io/images/logo.jpg",
+  "external_url": "https://ynft.github.io/",
+  "attributes": [
+    {
+      "trait_type": "LEVEL",
+      "value": 4
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Color #2"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Face #6"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Hair #4"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Hat #8"
+    },
+    {
+      "trait_type": "NECKLACE",
+      "value": "Necklace #4"
+    },
+    {
+      "trait_type": "EARRINGS",
+      "value": "Earring #1"
+    }
+  ]
+}

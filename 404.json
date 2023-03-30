@@ -1,0 +1,37 @@
+{
+  "tokenId": 404,
+  "name": "TEST NFT #404",
+  "description": "TEST NFT #404",
+  "image": "https://ynft.github.io/images/logo.jpg",
+  "external_url": "https://ynft.github.io/",
+  "attributes": [
+    {
+      "trait_type": "LEVEL",
+      "value": 3
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Color #4"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Face #5"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Hair #6"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Hat #5"
+    },
+    {
+      "trait_type": "NECKLACE",
+      "value": "Necklace #2"
+    },
+    {
+      "trait_type": "EARRINGS",
+      "value": "Earring #4"
+    }
+  ]
+}

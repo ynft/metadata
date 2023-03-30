@@ -1,0 +1,37 @@
+{
+  "tokenId": 7453,
+  "name": "TEST NFT #7453",
+  "description": "TEST NFT #7453",
+  "image": "https://ynft.github.io/images/logo.jpg",
+  "external_url": "https://ynft.github.io/",
+  "attributes": [
+    {
+      "trait_type": "LEVEL",
+      "value": 4
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Color #1"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Face #5"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Hair #7"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Hat #5"
+    },
+    {
+      "trait_type": "NECKLACE",
+      "value": "Necklace #5"
+    },
+    {
+      "trait_type": "EARRINGS",
+      "value": "Earring #6"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "tokenId": 2869,
+  "name": "TEST NFT #2869",
+  "description": "TEST NFT #2869",
+  "image": "https://ynft.github.io/images/logo.jpg",
+  "external_url": "https://ynft.github.io/",
+  "attributes": [
+    {
+      "trait_type": "LEVEL",
+      "value": 4
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Color #1"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Face #3"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Hair #1"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Hat #4"
+    },
+    {
+      "trait_type": "NECKLACE",
+      "value": "Necklace #3"
+    },
+    {
+      "trait_type": "EARRINGS",
+      "value": "Earring #10"
+    }
+  ]
+}

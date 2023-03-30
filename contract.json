@@ -1,0 +1,8 @@
+{
+  "name": "TEST NFT",
+  "description": "TEST NFT Collection",
+  "image": "https://ynft.github.io/images/logo.jpg",
+  "external_link": "https://ynft.github.io/",
+  "seller_fee_basis_points": 700,
+  "fee_recipient": "0x3ecb3f07da57fe7de2c685833bf85015b5219769"
+}

@@ -1,0 +1,37 @@
+{
+  "tokenId": 2718,
+  "name": "TEST NFT #2718",
+  "description": "TEST NFT #2718",
+  "image": "https://ynft.github.io/images/logo.jpg",
+  "external_url": "https://ynft.github.io/",
+  "attributes": [
+    {
+      "trait_type": "LEVEL",
+      "value": 1
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Color #1"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Face #5"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Hair #2"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Hat #6"
+    },
+    {
+      "trait_type": "NECKLACE",
+      "value": "Necklace #7"
+    },
+    {
+      "trait_type": "EARRINGS",
+      "value": "Earring #4"
+    }
+  ]
+}
