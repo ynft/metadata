@@ -1,0 +1,44 @@
+{
+  "name": "metadata",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Test NFT Metadata",
+  "scripts": {
+    "clean": "rimraf ./build/ && mkdirp ./build/",
+    "prebuild": "yarn clean",
+    "build": "node ./scripts/build.js",
+    "deploy": "node ./scripts/deploy.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "gh-pages": "^5.0.0",
+    "mkdirp": "^2.1.6",
+    "rimraf": "^4.4.1"
+  },
+  "devDependencies": {},
+  "author": {
+    "name": "Aleksandr Ivannikov",
+    "email": "info@ivannikov.pro",
+    "url": "https://ivannikov.pro/"
+  },
+  "homepage": "https://github.com/ynft/metadata#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ynft/metadata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ynft/metadata/issues",
+    "email": "info@ivannikov.pro"
+  },
+  "keywords": [
+    "opensea",
+    "nft"
+  ],
+  "contributors": [
+    {
+      "name": "Aleksandr Ivannikov",
+      "email": "info@ivannikov.pro",
+      "url": "https://ivannikov.pro/"
+    }
+  ]
+}
