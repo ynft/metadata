@@ -25,8 +25,8 @@ async function main() {
   );
 
   const notrevealedJson = {
-    "name": "TEST NFT Unrevealed Card",
-    "description": "TEST NFT Unrevealed Card",
+    "name": "TEST NFT Unrevealed",
+    "description": "TEST NFT Unrevealed",
     "image": "https://ynft.github.io/images/logo.jpg",// TODO
     "external_url": "https://ynft.github.io/",
     "attributes": [],
