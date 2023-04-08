@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "FACE",
-      "value": "Face #3"
+      "value": "Face #1"
     },
     {
       "trait_type": "HAIR",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "HAT",
-      "value": "Hat #3"
+      "value": "Hat #2"
     },
     {
       "trait_type": "NECKLACE",
@@ -31,7 +31,7 @@
     },
     {
       "trait_type": "EARRINGS",
-      "value": "Earring #9"
+      "value": "Earring #4"
     }
   ]
 }

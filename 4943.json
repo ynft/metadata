@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "LEVEL",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "BACKGROUND",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "HAT",
-      "value": "Hat #4"
+      "value": "Hat #7"
     },
     {
       "trait_type": "NECKLACE",
-      "value": "Necklace #9"
+      "value": "Necklace #7"
     },
     {
       "trait_type": "EARRINGS",

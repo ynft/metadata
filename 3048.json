@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "Color #3"
+      "value": "Color #2"
     },
     {
       "trait_type": "FACE",
-      "value": "Face #1"
+      "value": "Face #2"
     },
     {
       "trait_type": "HAIR",
@@ -23,15 +23,15 @@
     },
     {
       "trait_type": "HAT",
-      "value": "Hat #6"
+      "value": "Hat #8"
     },
     {
       "trait_type": "NECKLACE",
-      "value": "Necklace #6"
+      "value": "Necklace #1"
     },
     {
       "trait_type": "EARRINGS",
-      "value": "Earring #3"
+      "value": "Earring #2"
     }
   ]
 }
